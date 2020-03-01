@@ -1,6 +1,8 @@
 # THIS IS A TEST FILE
 
 ## THERE ARE COOL THINGS INCLUDED IN IT
+- Like text
+- And different formatting styles
 
 ## SOME OF THE COOLEST HAVE NOT BEEN ADDED YET THOUGH
 
